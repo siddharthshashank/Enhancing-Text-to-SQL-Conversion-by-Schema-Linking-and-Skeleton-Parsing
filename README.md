@@ -1,6 +1,5 @@
 
-# RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL
-This is the official implementation of the paper "RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL" (AAAI 2023).
+# ENHANCING TEXT-TO-SQL CONVERSION BY SCHEMA LINKING AND SKELETON PARSING 
 
 If this repository could help you, please cite the following paper:
 ```
